@@ -1,6 +1,6 @@
 {
   "name": "fs-object",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Traverse directory tree and convert to object",
   "main": "index.js",
   "scripts": {
