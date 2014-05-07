@@ -34,7 +34,10 @@ function walk (dir, done, results) {
             if (err) {
               return done(err);
             }
-            results[file] = content.toString();
+            var parts = file.split('.');
+            parts.pop();
+            var name = parts.join('.');
+            results[name] = content.toString();
             pending -= 1;
             if (!pending) {
               done(null, results); 
