@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/allouis/minivents.git"
+    "url": "git://github.com/allouis/fs-object.git"
   },
   "keywords": [
     "directory",
@@ -20,7 +20,7 @@
   "author": "Fabien O'Carroll",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/allouis/minivents/issues"
+    "url": "https://github.com/allouis/fs-object/issues"
   },
-  "homepage": "https://github.com/allouis/minivents"
+  "homepage": "https://github.com/allouis/fs-object"
 }
