@@ -3,7 +3,7 @@
 ## Example
 
 ```javascript
-  var fsObj = require('fs-obj');
+  var fsObj = require('fs-object');
 
   fsObj(process.cwd(), function (err, result) {
     cssFiles = result.public.css  
